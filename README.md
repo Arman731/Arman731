@@ -44,7 +44,7 @@ ETL pipeline that converts invoices from different formats (Excel, PDF, non-scan
 High-frequency trading engine written in C++, running on dummy and historical market data.
 `C++` `Algorithmic trading` `Low latency`
 
-### 🔍 [OCR](https://github.com/Arman731/OCR)
+### 🔍 [OCR_data_parser](https://github.com/Arman731/OCR)
 Text extraction from images and documents.
 `Python` `OCR`
 

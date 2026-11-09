@@ -10,7 +10,6 @@ I build tools where finance meets data: from a C++ high-frequency trading engine
 - 🎓 First semester, B.Tech Information Technology
 - 🔭 Building: a high-frequency trading engine (C++) and an AI-powered invoice standardiser (Python)
 - 🌱 Learning: Data Structures & Algorithms (Stanford Algorithms Specialization), machine learning, data analysis for financial data
-- 💼 Looking for: a paid internship in fintech / data science / AI/ML
 - 📫 Reach me: [ali.armanali2008@gmail.com](mailto:ali.armanali2008@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arman-ali-mollah-253b78428)
 
 ---

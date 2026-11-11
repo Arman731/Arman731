@@ -35,17 +35,13 @@ I build tools where finance meets data: from a C++ high-frequency trading engine
 
 ## 📌 Featured projects
 
-### 🧾 [invoice-standardizer](https://github.com/Arman731/invoice-standardizer)
+### 🧾 [invoice-standardizer]
 ETL pipeline that converts invoices from different formats (Excel, PDF, non-scanned PDF, images) into one predefined Excel schema, removing manual data entry.
 `Python` `AI/LLMs` `Data extraction`
 
-### ⚡ [HFT_Engine](https://github.com/Arman731/HFT_Engine)
+### ⚡ [HFT_Engine]
 High-frequency trading engine written in C++, running on dummy and historical market data.
 `C++` `Algorithmic trading` `Low latency`
-
-### 🔍 [OCR_data_parser](https://github.com/Arman731/OCR)
-Text extraction from images and documents.
-`Python` `OCR`
 
 ---
 

@@ -35,11 +35,11 @@ I build tools where finance meets data: from a C++ high-frequency trading engine
 
 ## 📌 Featured projects
 
-### 🧾 [invoice-standardizer]
+### 🧾 Invoice Standardizer
 ETL pipeline that converts invoices from different formats (Excel, PDF, non-scanned PDF, images) into one predefined Excel schema, removing manual data entry.
 `Python` `AI/LLMs` `Data extraction`
 
-### ⚡ [HFT_Engine]
+### ⚡ HFT Engine
 High-frequency trading engine written in C++, running on dummy and historical market data.
 `C++` `Algorithmic trading` `Low latency`
 
